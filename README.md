@@ -1,6 +1,6 @@
 # Dynamic Quote and Image Website
 
-This project is a responsive web application that fetches random quotes and images upon each refresh. It utilizes HTML, CSS, and JavaScript to create a dynamic and engaging user experience, incorporating two external APIs: Unsplash API for random images and Quotify API for inspirational quotes.
+This project is a responsive web application that fetches random quotes and images upon each refresh. It utilizes HTML, CSS (including Tailwind CSS), and JavaScript to create a dynamic and engaging user experience, incorporating two external APIs: Unsplash API for random images and Quotify API for inspirational quotes.
 
 ## Key Features
 
@@ -12,7 +12,7 @@ This project is a responsive web application that fetches random quotes and imag
 
 ## Technologies Used
 
-- HTML/CSS: Structure and styling.
+- HTML/CSS (including Tailwind CSS): Structure, styling, and utility classes.
 - JavaScript: Asynchronous data fetching and DOM manipulation.
 - Unsplash API: Retrieve random images.
 - Quotify API: Fetch random quotes.
